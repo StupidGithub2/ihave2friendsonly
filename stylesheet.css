@@ -1,0 +1,35 @@
+body{
+    background-image: url(./background-image.jpg);
+    background-size: cover;
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+    margin-left: 45%;
+
+}
+*{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: #04aa6d;
+}
+.guessSubmit{
+    background-color:#654321;
+    border: none;
+    color: white;
+    cursor:pointer;
+    padding:5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+}
+.guessField{
+    color: black;
+}
+.result{
+    color: white;
+    padding: 3px;
+}
